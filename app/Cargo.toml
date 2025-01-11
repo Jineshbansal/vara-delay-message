@@ -1,0 +1,8 @@
+[package]
+name = "vara-delay-counter-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sails-rs = "0.7.1"
+gstd = { version = "1.7.0", default-features = false  }
